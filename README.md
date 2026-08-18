@@ -144,7 +144,7 @@ The library bundles the following command-line utilities in the tools directory:
 | `idevicename`              | Display or set the device name                                     |
 | `idevicenotificationproxy` | Post or observe notifications on a device                          |
 | `idevicepair`              | Manage host pairings with devices and usbmuxd                      |
-| `ideviceprovision`         | Manage provisioning profiles on a device                           |
+| `ideviceprovision`         | Manage provisioning profiles on the device                         |
 | `idevicescreenshot`        | Gets a screenshot from the connected device                        |
 | `idevicesetlocation`       | Simulate location on device                                        |
 | `idevicesyslog`            | Relay syslog of a connected device                                 |
@@ -188,7 +188,7 @@ We are still working on the guidelines so bear with us!
 ## License
 
 This library and utilities are licensed under the [GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/lgpl-2.1.en.html),
-also included in the repository in the `COPYING` file.
+also included in the repository in the `COPYING.LESSER` file.
 
 ## Credits
 
